@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "898791876964",
-    "project_id": "pet-needs-1b607",
-    "storage_bucket": "pet-needs-1b607.appspot.com"
+    "project_number": "726064537358",
+    "project_id": "pet-needs-f0da3",
+    "storage_bucket": "pet-needs-f0da3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:898791876964:android:1fedc964127b8e7bae7271",
+        "mobilesdk_app_id": "1:726064537358:android:344398823823afff09415f",
         "android_client_info": {
           "package_name": "com.burako.petneeds"
         }
       },
       "oauth_client": [
         {
-          "client_id": "898791876964-g42mapc4lfdiklrllt7g1369brgeek04.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.burako.petneeds",
-            "certificate_hash": "654c253b086f010b6ed9490de432ff4a16e8bbc5"
-          }
-        },
-        {
-          "client_id": "898791876964-o168ha51do90g30h5ca8l16rt6n2hna0.apps.googleusercontent.com",
+          "client_id": "726064537358-k9rgjhe0shpcrademvum8l5pf1v3q343.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBq97pjYIjLVEwoqKJeczhBShIPbq0wr9A"
+          "current_key": "AIzaSyAyVTJiRS5wBEtJiWxrsX11dkvle60IDV4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "898791876964-o168ha51do90g30h5ca8l16rt6n2hna0.apps.googleusercontent.com",
+              "client_id": "726064537358-k9rgjhe0shpcrademvum8l5pf1v3q343.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
